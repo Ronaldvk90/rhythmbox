@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>NPO Radio1</title>
+    <genre>Talk</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://icecast.omroep.nl/radio1-bb-mp3</location>
+    <play-count>1</play-count>
+    <last-played>1647376134</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Christmas FM Classical</title>
+    <genre>Holiday</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=esAdblock0124193&amp;aw_0_1st.playerid=esPlayer&amp;aw_0_1st.skey=1662836830&amp;aw_0_req.gdpr=false</location>
+    <play-count>1</play-count>
+    <last-played>1662837419</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio GREEK Zeimbekiko</title>
+    <genre>Zeimbekiko</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://83.169.36.75:8002/autodj</location>
+    <play-count>3</play-count>
+    <last-played>1661714461</last-played>
+    <bitrate>63</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Studio Brussel, Belgium</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icecast.vrtcdn.be/stubru-high.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
